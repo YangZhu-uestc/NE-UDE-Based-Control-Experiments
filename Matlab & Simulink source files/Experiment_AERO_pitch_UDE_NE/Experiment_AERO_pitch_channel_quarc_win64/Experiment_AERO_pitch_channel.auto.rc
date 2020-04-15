@@ -1,0 +1,2 @@
+#include <winuser.rh>
+1 RT_MANIFEST "Experiment_AERO_pitch_channel.auto.manifest"
